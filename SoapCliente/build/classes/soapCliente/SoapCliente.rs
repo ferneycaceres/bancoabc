@@ -1,0 +1,2 @@
+soapCliente.Borrar
+soapCliente.SoapCliente

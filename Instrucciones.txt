@@ -1,0 +1,15 @@
+1. La solucion fue creada y probada en el ide Netbeans.
+2. Importar los proyectos adjuntos en el zip, el programa principal (JAVA SWING) se encuentra en la aplicación llamada:
+	- Proyecto: FacadeBanco
+	- Clase: BancoABC
+
+3. Al iniciarse la aplicación en el constructor se hace un llamado al servicio de convenios, el cual traera un listado que se cargara en un dropbox.
+4. Cada botón prueba una diferente funcionalidad, esto con el fin de hacer un seguimiento al correcto funcionamiento de cada servicio web.
+
+
+Cualquier duda o pregunta no dude en comunicarnosla.
+
+Ferney Caceres
+Michel Fajardo
+Anderson Lopez
+Julián Hernández
